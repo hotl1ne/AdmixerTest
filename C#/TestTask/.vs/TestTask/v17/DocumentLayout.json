@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Test\\C#\\TestTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9011C3-83FE-4A24-9A1B-6C93ACE55B93}|Test\\Test.csproj|d:\\test\\c#\\testtask\\test\\searchsolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9011C3-83FE-4A24-9A1B-6C93ACE55B93}|Test\\Test.csproj|solutionrelative:test\\searchsolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9011C3-83FE-4A24-9A1B-6C93ACE55B93}|Test\\Test.csproj|d:\\test\\c#\\testtask\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9011C3-83FE-4A24-9A1B-6C93ACE55B93}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchSolution.cs",
+              "DocumentMoniker": "D:\\Test\\C#\\TestTask\\Test\\SearchSolution.cs",
+              "RelativeDocumentMoniker": "Test\\SearchSolution.cs",
+              "ToolTip": "D:\\Test\\C#\\TestTask\\Test\\SearchSolution.cs",
+              "RelativeToolTip": "Test\\SearchSolution.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:00:53.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Test\\C#\\TestTask\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "D:\\Test\\C#\\TestTask\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:58:04.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
